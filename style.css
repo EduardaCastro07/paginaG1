@@ -244,13 +244,6 @@ h2{
 }
 
 .linha{
-    width: 254px;
-    height: 0px;
-    top: 1770px;
-    left: 375px;
-    gap: 0px;
-    border: 3px 0px 0px 0px;
-    opacity: 0px;
-    transform: rotate(-90deg);
-    border: 3px solid rgba(166, 19, 10, 1)
+    padding-left: 10px;
+    border-left: 3px solid rgba(166, 19, 10, 1)
 }
